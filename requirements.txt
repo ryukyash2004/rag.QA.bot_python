@@ -1,0 +1,20 @@
+# Core dependencies for RAG pipeline
+numpy>=1.24.0
+
+# Option 1: Using sentence-transformers (NO API KEY NEEDED - Recommended for testing)
+sentence-transformers>=2.2.0
+
+# Option 2: Using OpenAI (requires API key)
+# openai>=1.0.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Optional: For production web API
+# flask>=3.0.0
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+
+# Optional: For better text processing
+# langchain>=0.1.0
+# langchain-community>=0.0.10
