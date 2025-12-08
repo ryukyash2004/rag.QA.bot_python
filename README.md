@@ -58,7 +58,7 @@ rag-qa-bot/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/rag-qa-bot.git
+git clone https://github.com/ryukyash2004/rag-qa-bot.git
 cd rag-qa-bot
 
 # Create virtual environment
